@@ -6,6 +6,24 @@
   "bannerURL": "https://raw.githubusercontent.com/UndeadGames/undeadgames.github.io/main/assets/images/undead-games-hub-banner.png",
   "games": [
     {
+      "name": "Dystopia",
+      "logoURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/17580/header.jpg?t=1659814263",
+      "bannerURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/17580/0000007286.1920x1080.jpg?t=1659814263",
+      "description": "Dystopia is a cyberpunk game with tense combat situations in a high-tech world spanned by computer networks. Playing as either Punk mercenaries, or Corporate security forces, the player will fight through the physical world to gain access, via jack-in terminals, to cyberspace.",
+      "downloadPage": "https://store.steampowered.com/app/17580/Dystopia/",
+      "activity": "10-15 players on some occasions and events, 1-4 players for most of the week",
+      "connections": [
+        {
+          "name": "Official Discord",
+          "value": "https://discord.gg/9DVBJwTjed"
+        },
+        {
+          "name": "INTERLINKED bot invite link",
+          "value": "https://discord.com/api/oauth2/authorize?client_id=1059513754150244352&permissions=268437504&scope=bot"
+        }
+      ]
+    },
+    {
       "name": "Fortress Forever",
       "logoURL": "https://avatars.githubusercontent.com/u/2388970?s=200&v=4",
       "bannerURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/253530/header.jpg?t=1569221348",
