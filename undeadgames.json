@@ -22,6 +22,24 @@
           "value": "https://discord.com/api/oauth2/authorize?client_id=1005270180768792716&permissions=268437504&scope=bot"
         }
       ]
+    },
+    {
+      "name": "Fortress Forever",
+      "logoURL": "https://avatars.githubusercontent.com/u/2388970?s=200&v=4",
+      "bannerURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/253530/header.jpg?t=1569221348",
+      "description": "Fortress Forever is a Source mod inspired by the earlier versions of the Team Fortress series (Team Fortress Classic and QuakeWorld Team Fortress).",
+      "downloadPage": "https://store.steampowered.com/app/253530/Fortress_Forever/",
+      "activity": "1-4 players for most of the week",
+      "connections": [
+        {
+          "name": "Official Discord",
+          "value": "https://discord.gg/ckZyPzDaBh"
+        },
+        {
+          "name": "INTERLINKED bot invite link",
+          "value": "https://discord.com/api/oauth2/authorize?client_id=1017091888521695272&permissions=268437504&scope=bot"
+        }
+      ]
     }
   ]
 }
