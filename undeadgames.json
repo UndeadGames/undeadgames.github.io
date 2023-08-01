@@ -6,24 +6,6 @@
   "bannerURL": "https://raw.githubusercontent.com/UndeadGames/undeadgames.github.io/main/assets/images/undead-games-hub-banner.png",
   "games": [
     {
-      "name": "NEOTOKYO°",
-      "logoURL": "https://e1.pngegg.com/pngimages/479/558/png-clipart-neotokyo-icon-neotokyo-nt-logo-illustration.png",
-      "bannerURL": "https://media.moddb.com/cache/images/mods/1/2/1950/thumb_620x2000/ss_c25a6ba1a739911edc8ca6eccd56a04533acf294.1920x1080.jpg",
-      "description": "NEOTOKYO° is a multiplayer first person shooter that provides a visceral & realistic combat experience in a rich futuristic setting.",
-      "downloadPage": "https://store.steampowered.com/app/244630/NEOTOKYO/",
-      "activity": "20-30 players on Fridays, 1-4 players for most of the week",
-      "connections": [
-        {
-          "name": "Official Discord",
-          "value": "https://discord.gg/kXnFXY2heG"
-        },
-        {
-          "name": "INTERLINKED bot invite link",
-          "value": "https://discord.com/api/oauth2/authorize?client_id=1005270180768792716&permissions=268437504&scope=bot"
-        }
-      ]
-    },
-    {
       "name": "Fortress Forever",
       "logoURL": "https://avatars.githubusercontent.com/u/2388970?s=200&v=4",
       "bannerURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/253530/header.jpg?t=1569221348",
@@ -38,6 +20,24 @@
         {
           "name": "INTERLINKED bot invite link",
           "value": "https://discord.com/api/oauth2/authorize?client_id=1017091888521695272&permissions=268437504&scope=bot"
+        }
+      ]
+    },
+    {
+      "name": "NEOTOKYO°",
+      "logoURL": "https://e1.pngegg.com/pngimages/479/558/png-clipart-neotokyo-icon-neotokyo-nt-logo-illustration.png",
+      "bannerURL": "https://media.moddb.com/cache/images/mods/1/2/1950/thumb_620x2000/ss_c25a6ba1a739911edc8ca6eccd56a04533acf294.1920x1080.jpg",
+      "description": "NEOTOKYO° is a multiplayer first person shooter that provides a visceral & realistic combat experience in a rich futuristic setting.",
+      "downloadPage": "https://store.steampowered.com/app/244630/NEOTOKYO/",
+      "activity": "20-30 players on Fridays, 1-4 players for most of the week",
+      "connections": [
+        {
+          "name": "Official Discord",
+          "value": "https://discord.gg/kXnFXY2heG"
+        },
+        {
+          "name": "INTERLINKED bot invite link",
+          "value": "https://discord.com/api/oauth2/authorize?client_id=1005270180768792716&permissions=268437504&scope=bot"
         }
       ]
     }
