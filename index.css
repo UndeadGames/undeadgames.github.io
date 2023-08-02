@@ -1,0 +1,20 @@
+@shlop {
+  font-family: GraublauWeb;
+  src: url("assets/fonts/shlop_rg.otf") format("opentype");
+}
+
+body {
+  margin: 0px;
+}
+
+.halfie {
+  display: inline-block;
+  width: 49vw;
+}
+
+iframe {
+  background: #000;
+  height: 99.5vh;
+  width: 45vw;
+  direction:rtl;
+}
