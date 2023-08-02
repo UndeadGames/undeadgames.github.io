@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;700;800&family=Source+Code+Pro:wght@700&display=swap');
+body {
+  background-color: white;
+}
+.image-cropper {
+  display: inline-block;
+  width: 30;
+  height: 30;
+  position: relative;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  overflow: hidden;
+}
+.code {
+  background-color: lightgray !important;
+  border-radius: 4px !important;
+  font-family: 'Source Code Pro', monospace !important;
+  font-weight: 700 !important;
+}
+.embed-content {
+  background-color: #f3f6f4;
+  display: inline-block;
+  max-width: 600px;
+  padding: 7px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+.embed-author {
+}
+.embed-author-iconurl {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  width: 30px;
+}
+.embed-author-name {
+  text-decoration: none;
+  display: inline-block;
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  margin: 5;
+  padding-top: 3px;
+  padding-left: 7px;
+  position: absolute;
+  color: black;
+  text-decoration: underline;
+}
+.embed-status {
+  margin-top: 5;
+  margin-bottom: 5;
+}
+.embed-description {
+  margin: 1em 0 0 0;
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+.embed-game {
+  margin-top: 5;
+}
+.embed-game-title {
+  margin-top: 5px;
+  text-decoration: none;
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: black;
+}
+.embed-game-field {
+  margin-top: 12px;
+}
+.embed-game-label {
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+.embed-game-value {
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+.embed-game-bannerurl {
+  margin-top: 15px;
+  margin-left: 70px;
+  width: 450px;
+  border-radius: 10px;
+} 
+.embed-service-bannerurl {
+  width: 550px;
+  border-radius: 10px;
+}
+.embed-footer {
+  margin: 5px;
+  padding: 0px 0px 20px 0px;
+}
+.embed-footer-text {
+  text-decoration: none;
+  display: inline-block;
+  word-wrap: break-word;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  position: absolute;
+  color: grey;
+}
