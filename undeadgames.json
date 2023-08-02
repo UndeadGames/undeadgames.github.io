@@ -47,7 +47,7 @@
     },
     {
       "name": "GMod9",
-      "logoURL": "https://static.wikia.nocookie.net/garrys-m/images/2/28/Gmod.png/revision/latest?cb=20150726224748",
+      "logoURL": "https://static.wikia.nocookie.net/garrys-m/images/2/28/Gmod.png/revision/latest?cb=20150726224748&path-prefix=es",
       "bannerURL": "https://media.moddb.com/cache/images/mods/1/5/4408/thumb_620x2000/gm_construct0004.jpg",
       "description": "Garrys Mod allows the player to manipulate objects and experiment with the physics, often with interesting results due to the Source engine. The construction of complex machines within the game can also be a contemporary spin on the Rube Goldberg machine principle. This is the latest version and has is no longer in active development due to GMOD 10 (a commercial game being released)",
       "downloadPage": "https://www.gmod9.com/download.php",
