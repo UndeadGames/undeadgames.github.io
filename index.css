@@ -47,6 +47,19 @@ iframe {
   float: right;
 }
 
+@media screen and (orientation: portrait) {
+  .rightie {
+    visibility: hidden;
+    flex: 0;
+  }
+  
+  .rightie * {
+    visibility: hidden;
+    flex: 0;
+    width: 0;
+  }
+}
+
 .undead-logo {
   flex: 5;
   min-width: 0;
