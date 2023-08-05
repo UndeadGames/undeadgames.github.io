@@ -14,7 +14,7 @@
       "activity": "10-15 players on some occasions and events, 1-4 players for most of the week",
       "connections": [
         {
-          "name": "Official Discord",
+          "name": "Community Discord",
           "value": "https://discord.gg/9DVBJwTjed"
         },
         {
@@ -49,12 +49,12 @@
       "name": "GMod9",
       "logoURL": "https://static.wikia.nocookie.net/garrys-m/images/2/28/Gmod.png/revision/latest?cb=20150726224748&path-prefix=es",
       "bannerURL": "https://media.moddb.com/cache/images/mods/1/5/4408/thumb_620x2000/gm_construct0004.jpg",
-      "description": "Garrys Mod allows the player to manipulate objects and experiment with the physics, often with interesting results due to the Source engine. The construction of complex machines within the game can also be a contemporary spin on the Rube Goldberg machine principle. This is the latest version and has is no longer in active development due to GMOD 10 (a commercial game being released)",
+      "description": "Garrys Mod allows the player to manipulate objects and experiment with the physics, often with interesting results due to the Source engine. The construction of complex machines within the game can also be a contemporary spin on the Rube Goldberg machine principle. This is the latest version and is no longer in active development due to GMOD 10 (a commercial game being released).",
       "downloadPage": "https://www.gmod9.com/download.php",
       "activity": "1-4 players for most of the week",
       "connections": [
         {
-          "name": "Official Discord",
+          "name": "Community Discord",
           "value": "https://discord.gg/r5fBuxVYuA"
         },
         {
@@ -72,12 +72,50 @@
       "activity": "20-30 players on Fridays, 1-4 players for most of the week",
       "connections": [
         {
+          "name": "Memory expansion patch to reduce crashes",
+          "value": "https://ntcore.com/?page_id=371"
+        },
+        {
+          "name": "Official website",
+          "value": "https://www.neotokyohq.com/"
+        },
+        {
+          "name": "Guides/demos website",
+          "value": "https://bonahnsa.com/"
+        },
+        {
           "name": "Official Discord",
           "value": "https://discord.gg/kXnFXY2heG"
         },
         {
           "name": "INTERLINKED bot invite link",
           "value": "https://discord.com/api/oauth2/authorize?client_id=1005270180768792716&permissions=268437504&scope=bot"
+        }
+      ]
+    },
+    {
+      "name": "Resistance and Liberation",
+      "logoURL": "https://steamuserimages-a.akamaihd.net/ugc/433820591062881361/C57786B511E7F02197AC226DBE250756AFE411D6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+      "bannerURL": "https://media.moddb.com/cache/images/mods/1/1/241/thumb_620x2000/441.jpg",
+      "description": "The goal of Resistance and Liberation is to realistically portray the events and actions taken by the 82nd Airborne during their stay in Normandy. We will attempt to follow the regiments through the campaign that was taken by the men themselves. We will also introduce various other World War II setting maps. The campaign will begin with players dropping into Normandy in the early hours of June 6th with the ultimate goal of capturing the town of Sainte-Mère-Église. From there, subsequent maps will include missions based on locations such as Saint-Côme-du-Mont, La Fiere, Sainte-Marie-du-Mont, Carentan, and other key areas.",
+      "downloadPage": "https://www.moddb.com/mods/resistance-liberation/downloads/open-beta-16-full-installer",
+      "activity": "20-30 players on Fridays, 1-4 players for most of the week",
+      "connections": [
+        {
+          "name": "Installation requirements",
+          "value": "Source SDK Base 2007 (can be installed from the Steam library, Tools section)"
+        },
+        {
+          "name": "Community website",
+          "value": "https://mygamingedge.ins2u.online/rnl.html"
+        },
+        {
+          "name": "Community Discord",
+          "value": "https://discord.gg/eeXRDKA7TM"
+        },
+        {
+          "name": "INTERLINKED bot invite link",
+          "value": "https://discord.com/api/oauth2/authorize?client_id=1130578616372187137&permissions=268437504&scope=bot"
         }
       ]
     }
